@@ -26,7 +26,7 @@
 </p>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfinbadrian)](https://github.com/anuraghazra/github-readme-stats
+[![Erfin GitHub stats](https://github-readme-stats.vercel.app/api?username=erfinbadrian)](https://github.com/erfinbadrian/github-readme-stats)
 
 
 <div align="center">
