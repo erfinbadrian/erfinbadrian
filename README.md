@@ -26,6 +26,8 @@
 </p>
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfinbadrian)](https://github.com/anuraghazra/github-readme-stats
+
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
