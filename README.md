@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.ts**, **.py**, **.mql**
 - 💬 Talk to me about js, python, silicon valley,economy,conspiracy
-- 🧑‍💻 Tech I work on :
+- 🧑 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
