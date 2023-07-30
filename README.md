@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a software engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.ts**, **.py**, **.mql** ,**.dart**
+- 💻 I use daily **.js**, **.ts**, **.py**, **.mql** ,**.dart**,**.java**
 - 💬 Talk to me about js, python, silicon valley,economy,conspiracy
 - 🧑 Tech I work on :
 
