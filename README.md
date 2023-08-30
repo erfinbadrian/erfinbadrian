@@ -4,7 +4,6 @@
 - 🏦 I'm a software engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.ts**, **.py**, **.mql** ,**.dart**,**.java**
-- 💬 Talk to me about js, python, silicon valley,economy,conspiracy
 - 🧑 Tech I work on :
 
 <p align="center">
@@ -24,6 +23,6 @@
 
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
