@@ -18,10 +18,6 @@
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="55"/>
 </p>
 
----
-[![Erfin GitHub stats](https://github-readme-stats.vercel.app/api?username=erfinbadrian&theme=transparent&show_icons=true)](https://github.com/erfinbadrian)
-
-
 <div align="center">
 	<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
